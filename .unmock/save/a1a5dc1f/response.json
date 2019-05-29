@@ -10,15 +10,9 @@
     "x-download-options": "noopen",
     "x-content-type-options": "nosniff",
     "x-xss-protection": "1; mode=block",
-    "x-ratelimit-limit": "150",
-    "x-ratelimit-remaining": "149",
-    "x-ratelimit-reset": "1559129601",
     "unmock-hash": "a1a5dc1f",
     "x-unmock-hash": "a1a5dc1f",
     "access-control-expose-headers": "Content-Type, unmock-hash, x-unmock-hash",
-    "set-cookie": [
-      "ARRAffinity=bd39db228e7787daed50c20412ed37325f0e93d6e76cc16fc1b41fc6135e44a9;Path=/;HttpOnly;Domain=api.unmock.io"
-    ],
     "date": "Wed, 29 May 2019 11:32:20 GMT",
     "connection": "close"
   },
