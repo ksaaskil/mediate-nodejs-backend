@@ -9,7 +9,8 @@
     "build-babel": "babel -d ./build ./src -s",
     "build": "yarn clean && yarn build-babel",
     "dev": "nodemon --exec babel-node src/index.js",
-    "test": "jest"
+    "test": "jest",
+    "heroku-postbuild": "yarn build"
   },
   "author": "",
   "license": "ISC",
