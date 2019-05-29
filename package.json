@@ -24,9 +24,11 @@
     "@babel/core": "^7.4.5",
     "@babel/node": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
+    "babel-jest": "^24.8.0",
     "jest": "^24.8.0",
     "jest-html-reporter": "^2.5.0",
     "jest-junit": "^6.4.0",
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
   }
 }
