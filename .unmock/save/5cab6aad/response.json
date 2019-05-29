@@ -1,0 +1,146 @@
+{
+  "headers": {
+    "content-length": "4129",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"1021-YReT0xEJoDCNKYlvDgYqTlz+ZaM\"",
+    "access-control-allow-origin": "*",
+    "x-dns-prefetch-control": "off",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-download-options": "noopen",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "unmock-hash": "5cab6aad",
+    "x-unmock-hash": "5cab6aad",
+    "access-control-expose-headers": "Content-Type, unmock-hash, x-unmock-hash",
+    "date": "Wed, 29 May 2019 12:43:45 GMT",
+    "connection": "close"
+  },
+  "body": {
+    "copyright": "Consequatur blanditiis culpa quaerat modi sit.",
+    "num_results": 13,
+    "results": [
+      {
+        "byline": "Qui ipsa optio quis consectetur.",
+        "critics_pick": 30,
+        "date_updated": "In sint et nihil cum.",
+        "display_title": "Officiis quae occaecati ab ipsa sit dignissimos vero est.",
+        "headline": "Repellat laboriosam ut.",
+        "link": {
+          "suggested_link_text": "Odio reprehenderit asperiores.",
+          "type": "At aliquam ea laudantium tempore et quia vel corrupti recusandae.",
+          "url": "http://vance.name"
+        },
+        "mpaa_rating": "Quaerat exercitationem ipsa rerum sit aperiam.",
+        "multimedia": {
+          "resource": {
+            "height": 9,
+            "src": "Quisquam ut occaecati et voluptatem est eveniet.",
+            "type": "Quod non dicta omnis porro ipsa.",
+            "width": 3
+          }
+        },
+        "opening_date": "Sit ut commodi occaecati nam possimus est.",
+        "publication_date": "Dolores omnis corrupti nemo voluptatibus nisi.",
+        "summary_short": "Veritatis tempora incidunt repellat ut quia quibusdam ut non."
+      },
+      {
+        "byline": "Ducimus voluptatem totam.",
+        "critics_pick": 46,
+        "date_updated": "Voluptatem eos id autem consequatur sit adipisci nemo.",
+        "display_title": "Dolorum voluptatem velit necessitatibus excepturi nam nemo distinctio.",
+        "headline": "Est placeat rem consequatur iusto.",
+        "link": {
+          "suggested_link_text": "Sed soluta dolore.",
+          "type": "Unde nulla autem illo.",
+          "url": "https://robin.name"
+        },
+        "mpaa_rating": "Alias dolores aperiam asperiores incidunt.",
+        "multimedia": {
+          "resource": {
+            "height": 30,
+            "src": "Sed iusto dignissimos nam eum non vel.",
+            "type": "Non dolorem natus velit est minima quis.",
+            "width": 45
+          }
+        },
+        "opening_date": "Sed sit suscipit atque vel molestiae temporibus itaque dolorem numquam.",
+        "publication_date": "Consequatur et magni alias quaerat eveniet.",
+        "summary_short": "Quasi fugit velit occaecati fugit laborum eos ad eligendi."
+      },
+      {
+        "byline": "Fugiat molestiae et.",
+        "critics_pick": 38,
+        "date_updated": "Temporibus asperiores voluptate est saepe.",
+        "display_title": "Dolorum fuga cupiditate.",
+        "headline": "Qui voluptatem aut nemo optio iusto quasi eos.",
+        "link": {
+          "suggested_link_text": "Harum pariatur quos deleniti harum nihil vel.",
+          "type": "Non alias ut consectetur doloremque nemo officia.",
+          "url": "http://tanya.info"
+        },
+        "mpaa_rating": "Voluptatem et non incidunt dolores dolor fugit reiciendis et officiis.",
+        "multimedia": {
+          "resource": {
+            "height": 51,
+            "src": "Rerum beatae enim hic est sequi consequuntur aut unde voluptates.",
+            "type": "Voluptatem fugit qui dolorem eius.",
+            "width": 10
+          }
+        },
+        "opening_date": "Eos ad laudantium consectetur.",
+        "publication_date": "Hic placeat impedit voluptates voluptate quia.",
+        "summary_short": "Optio quasi a voluptatum veritatis aut et est perspiciatis."
+      },
+      {
+        "byline": "Dolorum consectetur sint nemo inventore voluptate deleniti.",
+        "critics_pick": 36,
+        "date_updated": "Voluptatibus aut omnis nihil expedita aliquid.",
+        "display_title": "Velit ea ad.",
+        "headline": "Reiciendis et aliquid aut.",
+        "link": {
+          "suggested_link_text": "Cupiditate et ratione molestias explicabo ut.",
+          "type": "Accusamus aspernatur autem rerum maxime.",
+          "url": "https://mariane.info"
+        },
+        "mpaa_rating": "Consequatur voluptate pariatur et perferendis itaque illum.",
+        "multimedia": {
+          "resource": {
+            "height": 3,
+            "src": "Eligendi dolore aperiam.",
+            "type": "Rerum excepturi neque sequi at quo rem.",
+            "width": 8
+          }
+        },
+        "opening_date": "Voluptatem veritatis ullam esse hic.",
+        "publication_date": "Repellat et eligendi et animi minima omnis consequatur.",
+        "summary_short": "Perspiciatis provident necessitatibus quas."
+      },
+      {
+        "byline": "Labore suscipit harum temporibus laborum natus occaecati nobis adipisci quia.",
+        "critics_pick": 44,
+        "date_updated": "Commodi cum maxime ut sit.",
+        "display_title": "Est architecto ut repellat odio et.",
+        "headline": "Ullam aut voluptas.",
+        "link": {
+          "suggested_link_text": "Modi eligendi ab quod dolores voluptatem iure deserunt.",
+          "type": "Quo ea iure porro dolores rem.",
+          "url": "http://marianne.org"
+        },
+        "mpaa_rating": "Et vel repellendus tenetur quidem doloribus.",
+        "multimedia": {
+          "resource": {
+            "height": 1,
+            "src": "Iste libero repellat.",
+            "type": "Est eius voluptas laboriosam dolores alias.",
+            "width": 41
+          }
+        },
+        "opening_date": "Sequi repellendus error eum culpa sit itaque quo.",
+        "publication_date": "Asperiores aut nihil architecto ipsum.",
+        "summary_short": "Vel voluptates consequatur ipsam."
+      }
+    ],
+    "status": "Sint ullam in tempora illum."
+  }
+}

@@ -9,7 +9,7 @@ console.log(`Listening at port ${port}`);
 
 (async () => {
   // Use unmock for development, disabled when NODE_ENV=production
-  await unmock();
+  await unmock({ token: process.env.UNMOCK_TOKEN });
   const app = buildApp();
   app.listen(port);
 })();

@@ -10,5 +10,5 @@
   },
   "host": "api.nytimes.com",
   "method": "GET",
-  "path": "/svc/movies/v2/reviews/picks.json?api-key=undefined"
+  "path": "/svc/movies/v2/reviews/picks.json?api-key="
 }

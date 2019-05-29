@@ -6,7 +6,7 @@ const app = buildApp();
 
 describe("Express app", () => {
   beforeAll(async () => {
-    await unmock();
+    await unmock({ token: process.env.UNMOCK_TOKEN });
   });
   it("returns movie reviews", async () => {
     const response = await request(app)
