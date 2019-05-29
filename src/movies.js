@@ -1,10 +1,10 @@
 import { Router } from "express";
 
-const getMoviesHandler = (req, res) => {
+const getMoviesHandler = (_, res) => {
   res.send({ message: "Movies handled" });
 };
 
-const logger = (req, res, next) => {
+const logger = (req, _, next) => {
   console.log("%s %s %s", req.method, req.url, req.path);
   next();
 };
