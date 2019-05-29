@@ -22,4 +22,5 @@ module.exports = {
     ],
   ],
   collectCoverageFrom: ["src/**/*.js"],
+  setupFiles: ["dotenv/config"],
 };
