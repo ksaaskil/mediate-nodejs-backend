@@ -1,10 +1,9 @@
+import MoviesRoute from "./movies";
 const express = require("express");
 
 const app = express();
 
-app.get("/", (req, res) =>
-  res.send({ message: "Hello from my Node.js backend!" })
-);
+app.get("/movies", MoviesRoute());
 
 // Important: port must be read from the environment for Heroku
 const port = process.env.PORT || 3000;
