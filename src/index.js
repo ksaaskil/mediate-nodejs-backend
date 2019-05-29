@@ -8,6 +8,7 @@ const port = process.env.PORT || 3000;
 console.log(`Listening at port ${port}`);
 
 (async () => {
+  // Use unmock for development, disabled when NODE_ENV=production
   await unmock();
   const app = buildApp();
   app.listen(port);
