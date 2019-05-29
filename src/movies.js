@@ -14,7 +14,7 @@ function MoviesRoute() {
 
   router.use(logger);
 
-  router.get("/movies", getMoviesHandler);
+  router.get("/", getMoviesHandler);
 
   return router;
 }
