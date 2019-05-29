@@ -1,3 +1,4 @@
+require("dotenv/config"); // Read .env
 import { unmock } from "unmock-node";
 import buildApp from "./app";
 
@@ -8,6 +9,6 @@ console.log(`Listening at port ${port}`);
 
 (async () => {
   await unmock();
-  const app = await buildApp();
+  const app = buildApp();
   app.listen(port);
 })();
