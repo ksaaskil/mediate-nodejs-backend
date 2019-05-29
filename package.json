@@ -4,9 +4,10 @@
   "description": "Small example of a Heroku pipeline",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build && node ./build/index.js",
+    "start": "yarn build && node ./build/index.js",
     "clean": "rm -rf build && mkdir build",
-    "build": "babel -d ./build ./src -s",
+    "build-babel": "babel -d ./build ./src -s",
+    "build": "yarn clean && yarn build-babel",
     "dev": "nodemon --exec babel-node src/index.js",
     "test": "jest"
   },
