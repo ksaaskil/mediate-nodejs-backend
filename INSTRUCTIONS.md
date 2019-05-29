@@ -5,13 +5,25 @@
 Starting the server:
 
 ```
-npm start
+yarn start
+```
+
+Starting the development server:
+
+```
+yarn dev
 ```
 
 Running tests:
 
 ```
-npm test
+yarn test
+```
+
+Running Babel build:
+
+```
+yarn build
 ```
 
 ## Setting up Heroku
@@ -41,6 +53,12 @@ heroku local
 ```
 
 to serve the app locally.
+
+Because Heroku needs to the Babel build, you also need to set `YARN_PRODUCTION` to `false` in Heroku:
+
+```
+heroku config:set YARN_PRODUCTION=false
+```
 
 ### Setting up CircleCI
 
