@@ -9,7 +9,7 @@ app.use("/movies", route);
 
 describe("Movies route", () => {
   beforeAll(async () => {
-    await unmock({ token: process.env.UNMOCK_TOKEN });
+    await unmock();
   });
   it("returns movie reviews", async () => {
     const response = await request(app)
