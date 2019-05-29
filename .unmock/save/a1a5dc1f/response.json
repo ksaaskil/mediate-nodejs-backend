@@ -1,0 +1,152 @@
+{
+  "headers": {
+    "content-length": "4134",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"1026-Wf9tottALajb+HVmARl49vCyyCs\"",
+    "access-control-allow-origin": "*",
+    "x-dns-prefetch-control": "off",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-download-options": "noopen",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-ratelimit-limit": "150",
+    "x-ratelimit-remaining": "149",
+    "x-ratelimit-reset": "1559129601",
+    "unmock-hash": "a1a5dc1f",
+    "x-unmock-hash": "a1a5dc1f",
+    "access-control-expose-headers": "Content-Type, unmock-hash, x-unmock-hash",
+    "set-cookie": [
+      "ARRAffinity=bd39db228e7787daed50c20412ed37325f0e93d6e76cc16fc1b41fc6135e44a9;Path=/;HttpOnly;Domain=api.unmock.io"
+    ],
+    "date": "Wed, 29 May 2019 11:32:20 GMT",
+    "connection": "close"
+  },
+  "body": {
+    "copyright": "Reiciendis ut autem.",
+    "num_results": 32,
+    "results": [
+      {
+        "byline": "Sint in voluptatibus id nulla asperiores vitae.",
+        "critics_pick": 39,
+        "date_updated": "Atque eum assumenda.",
+        "display_title": "Eos voluptas officia distinctio placeat laborum maxime.",
+        "headline": "Provident laboriosam est ut possimus.",
+        "link": {
+          "suggested_link_text": "Sed et distinctio reiciendis quia facilis.",
+          "type": "Reprehenderit harum perspiciatis eius tempore tempore nam voluptatibus in ratione.",
+          "url": "https://mitchell.org"
+        },
+        "mpaa_rating": "Qui est exercitationem voluptates dolor.",
+        "multimedia": {
+          "resource": {
+            "height": 0,
+            "src": "Et est quae eligendi quod nesciunt veniam omnis.",
+            "type": "Ut iure perspiciatis labore repellendus animi aut.",
+            "width": 36
+          }
+        },
+        "opening_date": "Aperiam velit suscipit officia recusandae molestiae.",
+        "publication_date": "Neque facilis nisi vel vero quidem.",
+        "summary_short": "Veniam dolorem culpa nesciunt et totam ut tempore soluta."
+      },
+      {
+        "byline": "Aut maiores illo et.",
+        "critics_pick": 2,
+        "date_updated": "Qui amet est commodi commodi nobis odit reiciendis id.",
+        "display_title": "Eius aliquid et assumenda id sunt itaque maiores.",
+        "headline": "Id provident dolores.",
+        "link": {
+          "suggested_link_text": "Reprehenderit praesentium pariatur totam porro.",
+          "type": "Sapiente molestias pariatur deserunt non dolore tempora dolore ut perferendis.",
+          "url": "http://samanta.net"
+        },
+        "mpaa_rating": "Fugiat quaerat sed ullam laudantium quidem autem qui aspernatur eos.",
+        "multimedia": {
+          "resource": {
+            "height": 20,
+            "src": "Delectus architecto provident.",
+            "type": "Blanditiis numquam velit rerum ut beatae nisi et expedita animi.",
+            "width": 42
+          }
+        },
+        "opening_date": "Alias facere incidunt quo ex soluta possimus magnam unde tempore.",
+        "publication_date": "Eum dolorum nulla dolores ea.",
+        "summary_short": "Ipsam voluptate aut ut sequi atque rerum rerum."
+      },
+      {
+        "byline": "Voluptatum sit facere accusantium.",
+        "critics_pick": 39,
+        "date_updated": "Et placeat autem et consequuntur rem minima qui.",
+        "display_title": "Optio quae voluptate eius sit omnis.",
+        "headline": "Facere voluptatem laudantium quod.",
+        "link": {
+          "suggested_link_text": "Corporis in aut quam.",
+          "type": "Non veritatis aut sint non eaque harum possimus explicabo excepturi.",
+          "url": "https://brandyn.com"
+        },
+        "mpaa_rating": "Natus corporis consequatur possimus dolores repudiandae voluptatem et.",
+        "multimedia": {
+          "resource": {
+            "height": 42,
+            "src": "Officiis et quos consequatur earum veniam.",
+            "type": "Earum expedita aut et pariatur iusto.",
+            "width": 25
+          }
+        },
+        "opening_date": "Vero quia ut.",
+        "publication_date": "Assumenda ea tempore molestiae.",
+        "summary_short": "Natus voluptas itaque delectus temporibus minima molestias."
+      },
+      {
+        "byline": "Ut rerum asperiores dolorem a blanditiis.",
+        "critics_pick": 39,
+        "date_updated": "Fuga corrupti ipsam dolorem sunt voluptatem.",
+        "display_title": "Non assumenda consectetur sed libero.",
+        "headline": "Fugit aliquid fugit ratione totam pariatur ducimus dolor.",
+        "link": {
+          "suggested_link_text": "Non adipisci possimus ut cum.",
+          "type": "Voluptas repellendus quia voluptatum ipsam ab amet alias mollitia vel.",
+          "url": "http://dustin.org"
+        },
+        "mpaa_rating": "Eaque dolores autem deserunt voluptatum sit.",
+        "multimedia": {
+          "resource": {
+            "height": 4,
+            "src": "Velit sint corrupti.",
+            "type": "Aut tempore quas molestias porro nostrum.",
+            "width": 29
+          }
+        },
+        "opening_date": "Incidunt tenetur consectetur.",
+        "publication_date": "Dolor ducimus non.",
+        "summary_short": "A aspernatur est rerum aut."
+      },
+      {
+        "byline": "Aspernatur dolores eos voluptatem recusandae molestias.",
+        "critics_pick": 6,
+        "date_updated": "Tempora ad et aliquid quo tempore aut deleniti aut.",
+        "display_title": "Ab minus ipsa.",
+        "headline": "Quas quia sit.",
+        "link": {
+          "suggested_link_text": "Amet rerum eum perspiciatis.",
+          "type": "Fugit perspiciatis placeat fugiat quas voluptas non eum voluptas nihil.",
+          "url": "https://joelle.org"
+        },
+        "mpaa_rating": "Officiis et non nisi.",
+        "multimedia": {
+          "resource": {
+            "height": 42,
+            "src": "Consequatur tempore in iste.",
+            "type": "Vitae deserunt et saepe ipsa iste.",
+            "width": 50
+          }
+        },
+        "opening_date": "Id recusandae labore.",
+        "publication_date": "Corrupti aut neque aliquam voluptatem unde saepe.",
+        "summary_short": "Reiciendis dignissimos nihil porro voluptates ad deleniti."
+      }
+    ],
+    "status": "Optio numquam aliquid est a."
+  }
+}

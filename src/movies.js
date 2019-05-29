@@ -6,6 +6,7 @@ const getMoviesHandler = async (_, res, next) => {
     const movies = await moviesApi.getMovies();
     return res.send({ movies });
   } catch (err) {
+    console.error("Failed fetching movies", err.stack);
     return next(err);
   }
 };

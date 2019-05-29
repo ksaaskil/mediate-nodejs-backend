@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "referer": "http://localhost/",
+    "user-agent": "Mozilla/5.0 (darwin) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/11.12.0",
+    "accept-language": "en",
+    "origin": "http://localhost",
+    "accept-encoding": "gzip, deflate",
+    "connection": "close"
+  },
+  "host": "api.nytimes.com",
+  "method": "GET",
+  "path": "/svc/movies/v2/reviews/picks.json?api-key=undefined"
+}
