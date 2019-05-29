@@ -20,7 +20,7 @@ jobs: # a collection of steps
             - ~/.cache/yarn
       - run: # run tests
           name: test
-          command: npm test
+          command: yarn test
           environment:
             UNMOCK_TOKEN: $UNMOCK_TOKEN
       - store_artifacts: # special step to save test results as as artifact
