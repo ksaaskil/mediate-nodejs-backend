@@ -1,5 +1,5 @@
 import express from "express";
-import MoviesRoute from "./movies";
+import MoviesRoute from "../src/movies";
 
 const route = MoviesRoute();
 
