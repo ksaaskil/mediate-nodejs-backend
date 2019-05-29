@@ -1,18 +1,17 @@
 import { Router } from "express";
+import * as moviesApi from "./movies-api";
 
-const getMoviesHandler = (_, res) => {
-  res.send({ message: "Movies handled" });
-};
-
-const logger = (req, _, next) => {
-  console.log("%s %s %s", req.method, req.url, req.path);
-  next();
+const getMoviesHandler = async (_, res, next) => {
+  try {
+    const movies = await moviesApi.getMovies();
+    return res.send({ movies });
+  } catch (err) {
+    return next(err);
+  }
 };
 
 function MoviesRoute() {
   const router = Router();
-
-  router.use(logger);
 
   router.get("/", getMoviesHandler);
 

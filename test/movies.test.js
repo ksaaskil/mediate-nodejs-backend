@@ -11,6 +11,6 @@ describe("Movies route", () => {
     const response = await request(app)
       .get("/movies")
       .expect(200);
-    expect(response.body.message).toBeDefined();
+    expect(response.body.movies).toBeDefined();
   });
 });
