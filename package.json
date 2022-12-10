@@ -18,7 +18,7 @@
     "@babel/cli": "^7.4.4",
     "axios": "^0.18.0",
     "dotenv": "^8.0.0",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "unmock": "^0.0.55",
     "unmock-node": "^0.0.55"
   },
